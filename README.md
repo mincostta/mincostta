@@ -5,3 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=YASMIN COSTA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Estudante de ADS pela UNIP<br/>Me tornando desenvolvedora Full-Stack</p>
+<p align="left">
+  <a href="www.linkedin.com/in/yasmin-costa-041aa52a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="yasmincosta07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
