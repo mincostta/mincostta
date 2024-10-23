@@ -7,5 +7,5 @@
 <p>Estudante de ADS pela UNIP<br/>Me tornando desenvolvedora Full-Stack</p>
 <p align="left">
   <a href="https://www.linkedin.com/in/yasmin-costa-041aa52a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:yasmincostalima07@gmail.com)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmincostalima07@gmail.com)
 </p>
